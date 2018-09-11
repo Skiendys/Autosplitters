@@ -12,16 +12,7 @@
   </Metadata>
   <Offset>00:00:00</Offset>
   <AttemptCount>0</AttemptCount>
-  <AttemptHistory>
-    <Attempt id="1" started="09/04/2018 21:17:11" isStartedSynced="True" ended="09/04/2018 21:17:29" isEndedSynced="True" />
-    <Attempt id="2" started="09/04/2018 21:29:19" isStartedSynced="True" ended="09/04/2018 21:29:32" isEndedSynced="True" />
-    <Attempt id="3" started="09/04/2018 21:36:44" isStartedSynced="True" ended="09/04/2018 21:36:47" isEndedSynced="True" />
-    <Attempt id="4" started="09/04/2018 21:36:55" isStartedSynced="True" ended="09/04/2018 21:37:05" isEndedSynced="True" />
-    <Attempt id="5" started="09/04/2018 21:37:25" isStartedSynced="True" ended="09/04/2018 21:40:23" isEndedSynced="True">
-      <RealTime>00:02:58.0060000</RealTime>
-      <GameTime>00:02:57.3410000</GameTime>
-    </Attempt>
-  </AttemptHistory>
+  <AttemptHistory />
   <Segments>
     <Segment>
       <Name>- out of the sewers</Name>

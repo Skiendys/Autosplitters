@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>363</X>
-  <Y>180</Y>
-  <VerticalWidth>323</VerticalWidth>
+  <X>395</X>
+  <Y>229</Y>
+  <VerticalWidth>265</VerticalWidth>
   <VerticalHeight>300</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
@@ -44,7 +44,7 @@
         <Version>1.5</Version>
         <TimerHeight>50</TimerHeight>
         <TimerWidth>225</TimerWidth>
-        <TimerFormat>1.23</TimerFormat>
+        <TimerFormat>1.2</TimerFormat>
         <OverrideSplitColors>False</OverrideSplitColors>
         <ShowGradient>True</ShowGradient>
         <TimerColor>FFAAAAAA</TimerColor>
@@ -81,7 +81,7 @@
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
-        <SplitTimesAccuracy>Seconds</SplitTimesAccuracy>
+        <SplitTimesAccuracy>Tenths</SplitTimesAccuracy>
         <BeforeNamesColor>FFFFFFFF</BeforeNamesColor>
         <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
         <AfterNamesColor>FFFFFFFF</AfterNamesColor>
@@ -116,7 +116,7 @@
         <ShowHeader>True</ShowHeader>
         <IndentSectionSplit>True</IndentSectionSplit>
         <ShowIconSectionSplit>True</ShowIconSectionSplit>
-        <ShowSectionIcon>True</ShowSectionIcon>
+        <ShowSectionIcon>False</ShowSectionIcon>
         <HeaderGradient>Vertical</HeaderGradient>
         <OverrideHeaderColor>False</OverrideHeaderColor>
         <HeaderText>True</HeaderText>
@@ -140,21 +140,14 @@
             <Name>+/-</Name>
             <Type>Delta</Type>
             <Comparison>Current Comparison</Comparison>
-            <TimingMethod>Game Time</TimingMethod>
-          </Settings>
-          <Settings>
-            <Version>1.5</Version>
-            <Name>RTA</Name>
-            <Type>SplitTime</Type>
-            <Comparison>Current Comparison</Comparison>
-            <TimingMethod>Real Time</TimingMethod>
+            <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
             <Version>1.5</Version>
             <Name>IGT</Name>
             <Type>SplitTime</Type>
             <Comparison>Current Comparison</Comparison>
-            <TimingMethod>Game Time</TimingMethod>
+            <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
       </Settings>
