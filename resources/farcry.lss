@@ -1,20 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
   <GameIcon />
-  <GameName>
-  </GameName>
-  <CategoryName>
-  </CategoryName>
+  <GameName>Far Cry</GameName>
+  <CategoryName>Any%</CategoryName>
   <Metadata>
     <Run id="" />
-    <Platform usesEmulator="False">
-    </Platform>
+    <Platform usesEmulator="False">PC</Platform>
     <Region>
     </Region>
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>8</AttemptCount>
+  <AttemptCount>0</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="09/04/2018 21:17:11" isStartedSynced="True" ended="09/04/2018 21:17:29" isEndedSynced="True" />
     <Attempt id="2" started="09/04/2018 21:29:19" isStartedSynced="True" ended="09/04/2018 21:29:32" isEndedSynced="True" />
@@ -30,156 +27,73 @@
       <Name>- out of the sewers</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:00:41.2740000</RealTime>
-          <GameTime>00:00:41.2730000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:41.2740000</RealTime>
-        <GameTime>00:00:41.2730000</GameTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="5">
-          <RealTime>00:00:41.2740000</RealTime>
-          <GameTime>00:00:41.2730000</GameTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>- hut uphill</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:01:08.6470000</RealTime>
-          <GameTime>00:01:08.5720000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:27.3730000</RealTime>
-        <GameTime>00:00:27.2990000</GameTime>
-      </BestSegmentTime>
+      <BestSegmentTime />
       <SegmentHistory />
     </Segment>
     <Segment>
       <Name>- other side of the water</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:01:35.2060000</RealTime>
-          <GameTime>00:01:35.0080000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:26.5590000</RealTime>
-        <GameTime>00:00:26.4360000</GameTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="5">
-          <RealTime>00:00:26.5590000</RealTime>
-          <GameTime>00:00:26.4360000</GameTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>- car stealing</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:02:03.3870000</RealTime>
-          <GameTime>00:02:03.0930000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:28.1810000</RealTime>
-        <GameTime>00:00:28.0850000</GameTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="5">
-          <RealTime>00:00:28.1810000</RealTime>
-          <GameTime>00:00:28.0850000</GameTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>- bye bye pigs :(</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:02:16.5820000</RealTime>
-          <GameTime>00:02:16.1830000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:13.1950000</RealTime>
-        <GameTime>00:00:13.0900000</GameTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="5">
-          <RealTime>00:00:13.1950000</RealTime>
-          <GameTime>00:00:13.0900000</GameTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>- leaving beach</Name>
+      <Name>- grenade launcher rng</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:02:31.3380000</RealTime>
-          <GameTime>00:02:30.8470000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:14.7560000</RealTime>
-        <GameTime>00:00:14.6640000</GameTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="5">
-          <RealTime>00:00:14.7560000</RealTime>
-          <GameTime>00:00:14.6640000</GameTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>- carrier drive</Name>
+      <Name>- carrier clip?</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:02:40.2530000</RealTime>
-          <GameTime>00:02:39.6810000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:08.9150000</RealTime>
-        <GameTime>00:00:08.8340000</GameTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="5">
-          <RealTime>00:00:08.9150000</RealTime>
-          <GameTime>00:00:08.8340000</GameTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>Training</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:02:58.0060000</RealTime>
-          <GameTime>00:02:57.3410000</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:17.7530000</RealTime>
-        <GameTime>00:00:17.6600000</GameTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="5">
-          <RealTime>00:00:17.7530000</RealTime>
-          <GameTime>00:00:17.6600000</GameTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>- about to machete some guy</Name>
@@ -515,6 +429,15 @@
       <SegmentHistory />
     </Segment>
     <Segment>
+      <Name>- flashbangs</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
       <Name>- lets drown once again</Name>
       <Icon />
       <SplitTimes>
@@ -722,7 +645,16 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>- heli</Name>
+      <Name>- before cutscene LUL</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- after cutscene LUL</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
