@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>395</X>
-  <Y>229</Y>
-  <VerticalWidth>265</VerticalWidth>
+  <X>2060</X>
+  <Y>177</Y>
+  <VerticalWidth>228</VerticalWidth>
   <VerticalHeight>300</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
@@ -44,7 +44,7 @@
         <Version>1.5</Version>
         <TimerHeight>50</TimerHeight>
         <TimerWidth>225</TimerWidth>
-        <TimerFormat>1.2</TimerFormat>
+        <TimerFormat>1.23</TimerFormat>
         <OverrideSplitColors>False</OverrideSplitColors>
         <ShowGradient>True</ShowGradient>
         <TimerColor>FFAAAAAA</TimerColor>
@@ -60,7 +60,7 @@
       <Path>LiveSplit.ScriptableAutoSplit.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <ScriptPath>C:\Users\Szymon_Kiendys\Documents\My fun\LiveSplit_1.7.6\asls\auto split script.asl</ScriptPath>
+        <ScriptPath>E:\Fragi\Git\auto-split\FarCry-Autosplitter\auto split script - Copy.asl</ScriptPath>
         <Start>True</Start>
         <Split>True</Split>
         <CustomSettings>
@@ -77,11 +77,11 @@
         <VisualSplitCount>8</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
-        <DisplayIcons>True</DisplayIcons>
+        <DisplayIcons>False</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
-        <SplitTimesAccuracy>Tenths</SplitTimesAccuracy>
+        <SplitTimesAccuracy>Hundredths</SplitTimesAccuracy>
         <BeforeNamesColor>FFFFFFFF</BeforeNamesColor>
         <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
         <AfterNamesColor>FFFFFFFF</AfterNamesColor>
@@ -91,7 +91,7 @@
         <AfterTimesColor>FFFFFFFF</AfterTimesColor>
         <OverrideTimesColor>False</OverrideTimesColor>
         <LockLastSplit>True</LockLastSplit>
-        <IconSize>24</IconSize>
+        <IconSize>22</IconSize>
         <IconShadows>True</IconShadows>
         <SplitHeight>6</SplitHeight>
         <CurrentSplitGradient>Vertical</CurrentSplitGradient>
@@ -99,14 +99,14 @@
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Alternating</BackgroundGradient>
         <SeparatorLastSplit>True</SeparatorLastSplit>
-        <DeltasAccuracy>Tenths</DeltasAccuracy>
-        <DropDecimals>True</DropDecimals>
+        <DeltasAccuracy>Hundredths</DeltasAccuracy>
+        <DropDecimals>False</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
         <HeaderComparison>Current Comparison</HeaderComparison>
         <HeaderTimingMethod>Current Timing Method</HeaderTimingMethod>
         <Display2Rows>False</Display2Rows>
-        <IndentBlankIcons>True</IndentBlankIcons>
+        <IndentBlankIcons>False</IndentBlankIcons>
         <IndentSubsplits>True</IndentSubsplits>
         <HideSubsplits>False</HideSubsplits>
         <ShowSubsplits>False</ShowSubsplits>
@@ -116,15 +116,15 @@
         <ShowHeader>True</ShowHeader>
         <IndentSectionSplit>True</IndentSectionSplit>
         <ShowIconSectionSplit>True</ShowIconSectionSplit>
-        <ShowSectionIcon>False</ShowSectionIcon>
+        <ShowSectionIcon>True</ShowSectionIcon>
         <HeaderGradient>Vertical</HeaderGradient>
         <OverrideHeaderColor>False</OverrideHeaderColor>
         <HeaderText>True</HeaderText>
         <HeaderTimes>True</HeaderTimes>
-        <HeaderAccuracy>Tenths</HeaderAccuracy>
+        <HeaderAccuracy>Hundredths</HeaderAccuracy>
         <SectionTimer>True</SectionTimer>
         <SectionTimerGradient>True</SectionTimerGradient>
-        <SectionTimerAccuracy>Tenths</SectionTimerAccuracy>
+        <SectionTimerAccuracy>Hundredths</SectionTimerAccuracy>
         <SubsplitTopColor>8D000000</SubsplitTopColor>
         <SubsplitBottomColor>00FFFFFF</SubsplitBottomColor>
         <HeaderTopColor>2BFFFFFF</HeaderTopColor>

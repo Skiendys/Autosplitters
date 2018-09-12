@@ -4,7 +4,6 @@
     <CheatEntry>
       <ID>1</ID>
       <Description>"fileAccessMode"</Description>
-      <LastState Value="0" RealAddress="08848F48"/>
       <VariableType>4 Bytes</VariableType>
       <Address>"Cry3DEngine.dll"+00094058</Address>
       <Offsets>
@@ -14,229 +13,55 @@
     </CheatEntry>
     <CheatEntry>
       <ID>2</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
+      <Description>"game time #1"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"XRenderD3D9.dll"+001D61D8</Address>
+      <Address>CrySystem.dll+947E0</Address>
       <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>40</Offset>
-        <Offset>68</Offset>
+        <Offset>190</Offset>
         <Offset>24</Offset>
+        <Offset>F8</Offset>
+        <Offset>50</Offset>
+        <Offset>0</Offset>
       </Offsets>
     </CheatEntry>
     <CheatEntry>
       <ID>3</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
+      <Description>"game time #2"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"XRenderD3D9.dll"+001D61D8</Address>
+      <Address>"Cry3DEngine.dll"+00093A60</Address>
       <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>40</Offset>
-        <Offset>114</Offset>
-        <Offset>28</Offset>
+        <Offset>550</Offset>
+        <Offset>6CC</Offset>
+        <Offset>24</Offset>
+        <Offset>FC</Offset>
       </Offsets>
     </CheatEntry>
     <CheatEntry>
       <ID>4</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
+      <Description>"loading screen"</Description>
+      <LastState Value="0" RealAddress="0624CF98"/>
       <VariableType>4 Bytes</VariableType>
-      <Address>"XRenderD3D9.dll"+001D61D8</Address>
+      <Address>"Cry3DEngine.dll"+00029DFC</Address>
       <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>40</Offset>
-        <Offset>1C0</Offset>
-        <Offset>2C</Offset>
+        <Offset>BC</Offset>
+        <Offset>0</Offset>
       </Offsets>
     </CheatEntry>
     <CheatEntry>
       <ID>5</ID>
       <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
+      <LastState Value="0" RealAddress="0632EF7C"/>
       <VariableType>4 Bytes</VariableType>
-      <Address>"XRenderD3D9.dll"+001D61D8</Address>
+      <Address>"Cry3DEngine.dll"+00093A64</Address>
       <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>40</Offset>
-        <Offset>26C</Offset>
-        <Offset>30</Offset>
+        <Offset>4A0</Offset>
+        <Offset>110</Offset>
       </Offsets>
     </CheatEntry>
     <CheatEntry>
       <ID>6</ID>
       <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"XRenderD3D9.dll"+001D61D8</Address>
-      <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>40</Offset>
-        <Offset>318</Offset>
-        <Offset>34</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>7</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"XRenderD3D9.dll"+001D61D8</Address>
-      <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>40</Offset>
-        <Offset>3C4</Offset>
-        <Offset>38</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>8</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"Cry3DEngine.dll"+00093A64</Address>
-      <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>40</Offset>
-        <Offset>674</Offset>
-        <Offset>3D0</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>9</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"CryAnimation.dll"+0007184C</Address>
-      <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>40</Offset>
-        <Offset>674</Offset>
-        <Offset>3D0</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>10</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"XRenderD3D9.dll"+009DF794</Address>
-      <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>40</Offset>
-        <Offset>674</Offset>
-        <Offset>3D0</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>11</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"Cry3DEngine.dll"+00093A64</Address>
-      <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>680</Offset>
-        <Offset>158</Offset>
-        <Offset>154</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>12</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"XRenderD3D9.dll"+009DF794</Address>
-      <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>680</Offset>
-        <Offset>158</Offset>
-        <Offset>154</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>13</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"CryAnimation.dll"+0007184C</Address>
-      <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>680</Offset>
-        <Offset>158</Offset>
-        <Offset>154</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>14</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"XRenderD3D9.dll"+009DF794</Address>
-      <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>40</Offset>
-        <Offset>674</Offset>
-        <Offset>3D0</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>15</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"CryAnimation.dll"+0007184C</Address>
-      <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>40</Offset>
-        <Offset>674</Offset>
-        <Offset>3D0</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>16</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"Cry3DEngine.dll"+00093A64</Address>
-      <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>40</Offset>
-        <Offset>674</Offset>
-        <Offset>3D0</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>17</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"XRenderD3D9.dll"+001D61D8</Address>
-      <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>640</Offset>
-        <Offset>1C0</Offset>
-        <Offset>10</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>18</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"XRenderD3D9.dll"+00A72D60</Address>
-      <Offsets>
-        <Offset>4A4</Offset>
-        <Offset>640</Offset>
-        <Offset>318</Offset>
-        <Offset>1C4</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>19</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
+      <LastState Value="0" RealAddress="0632EF7C"/>
       <VariableType>4 Bytes</VariableType>
       <Address>"CryGame.dll"+00118564</Address>
       <Offsets>
@@ -247,29 +72,165 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>20</ID>
+      <ID>7</ID>
       <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
+      <LastState Value="0" RealAddress="0632EF7C"/>
       <VariableType>4 Bytes</VariableType>
-      <Address>"CrySystem.dll"+00094740</Address>
+      <Address>"Cry3DEngine.dll"+00093A64</Address>
       <Offsets>
         <Offset>4A0</Offset>
-        <Offset>8</Offset>
-        <Offset>1DC</Offset>
-        <Offset>44</Offset>
+        <Offset>110</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="0632EF7C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Cry3DEngine.dll"+00093A64</Address>
+      <Offsets>
+        <Offset>498</Offset>
+        <Offset>114</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="0632EF7C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"CryAnimation.dll"+0007184C</Address>
+      <Offsets>
+        <Offset>4A0</Offset>
+        <Offset>110</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="0632EF7C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"CryAnimation.dll"+0007184C</Address>
+      <Offsets>
+        <Offset>498</Offset>
+        <Offset>114</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="0632EF7C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"XRenderD3D9.dll"+009DF794</Address>
+      <Offsets>
+        <Offset>4A0</Offset>
+        <Offset>110</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="0632EF7C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"XRenderD3D9.dll"+009DF794</Address>
+      <Offsets>
+        <Offset>498</Offset>
+        <Offset>114</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="0632EF7C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Cry3DEngine.dll"+00093A64</Address>
+      <Offsets>
+        <Offset>4A0</Offset>
+        <Offset>334</Offset>
+        <Offset>114</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="0632EF7C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Cry3DEngine.dll"+00093A64</Address>
+      <Offsets>
+        <Offset>4A0</Offset>
+        <Offset>33C</Offset>
+        <Offset>110</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="0632EF7C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Cry3DEngine.dll"+00093A64</Address>
+      <Offsets>
+        <Offset>4A0</Offset>
+        <Offset>304</Offset>
+        <Offset>114</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="0632EF7C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Cry3DEngine.dll"+00093A64</Address>
+      <Offsets>
+        <Offset>4A0</Offset>
+        <Offset>30C</Offset>
+        <Offset>110</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="0632EF7C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Cry3DEngine.dll"+00093A64</Address>
+      <Offsets>
+        <Offset>4A0</Offset>
+        <Offset>7E8</Offset>
+        <Offset>688</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="0632EF7C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Cry3DEngine.dll"+00093A64</Address>
+      <Offsets>
+        <Offset>4A0</Offset>
+        <Offset>6C4</Offset>
+        <Offset>6D0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="0632EF7C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Cry3DEngine.dll"+00093A64</Address>
+      <Offsets>
+        <Offset>498</Offset>
+        <Offset>6C8</Offset>
+        <Offset>6D0</Offset>
       </Offsets>
     </CheatEntry>
     <CheatEntry>
       <ID>21</ID>
       <Description>"pointerscan result"</Description>
-      <LastState Value="0" RealAddress="0ED2435C"/>
+      <LastState Value="0" RealAddress="0632EF7C"/>
       <VariableType>4 Bytes</VariableType>
-      <Address>"XRenderD3D9.dll"+00A39364</Address>
+      <Address>"Cry3DEngine.dll"+00093A64</Address>
       <Offsets>
-        <Offset>4A0</Offset>
-        <Offset>334</Offset>
-        <Offset>114</Offset>
-        <Offset>524</Offset>
+        <Offset>498</Offset>
+        <Offset>7EC</Offset>
+        <Offset>688</Offset>
       </Offsets>
     </CheatEntry>
   </CheatEntries>
