@@ -1,7 +1,7 @@
 state("FarCry")
 {
 	int fileSavingBuffer : "CryGame.dll", 0x00118564, 0x48, 0x18, 0x8, 0x4A0;
-	int fileAccessMode : "Cry3DEngine.dll", 0x00094058, 0x7E0, 0x10;
+	int fileAccessMode : "CrySystem.dll", 0x00095E3C, 0x10;
 	int loadIndicator : "Cry3DEngine.dll", 0x00029DFC, 0x0, 0xBC;
 	int levelTime : "Cry3DEngine.dll", 0x00093A60, 0xFC, 0x24, 0x6CC, 0x550;
 }
